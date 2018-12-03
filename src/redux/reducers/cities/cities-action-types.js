@@ -1,0 +1,3 @@
+export const LOAD_DATA = 'CITIES_LOAD_DATA'
+export const TOGGLE_ALL = 'CITIES_TOGGLE_ALL'
+export const TOGGLE = 'CITIES_TOGGLE'

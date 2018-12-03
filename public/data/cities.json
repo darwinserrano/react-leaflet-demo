@@ -1,0 +1,46 @@
+[
+  {
+    "layerId": "Venezuela",
+    "name": "Venezuela",
+    "cities": [
+      {
+        "layerId": "Caracas",
+        "name": "Caracas"
+      },
+      {
+        "layerId": "Maracay",
+        "name": "Maracay"
+      },
+      {
+        "layerId": "Merida",
+        "name": "Merida"
+      },
+      {
+        "layerId": "Maracaibo",
+        "name": "Maracaibo"
+      }
+    ]
+  },
+  {
+    "layerId": "Chile",
+    "name": "Chile",
+    "cities": [
+      {
+        "layerId": "Santiago",
+        "name": "Santiago"
+      },
+      {
+        "layerId": "Rancagua",
+        "name": "Rancagua"
+      },
+      {
+        "layerId": "Antofagasta",
+        "name": "Antofagasta"
+      },
+      {
+        "layerId": "Concepcion",
+        "name": "Concepción"
+      }
+    ]
+  }
+]
